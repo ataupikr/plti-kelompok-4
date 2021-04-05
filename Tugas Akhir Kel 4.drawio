@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T16:04:12.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="DiY-bG6eoPO3uwih8SEO" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T16:28:13.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="fh5lYKjAvsNNHf38OmTT" version="14.5.7" type="github">
   <diagram id="jDnu_dIWOn3BXBdkam_3" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-87" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="750" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="840" width="160" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="840" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="840" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="840" width="150" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="UjGYbBJooW7ZUgRkbAjk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#f9f7ed;" vertex="1" parent="1">
           <mxGeometry x="40" y="10" width="730" height="550" as="geometry" />
         </mxCell>
@@ -147,8 +162,110 @@
             <mxPoint x="670" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjGYbBJooW7ZUgRkbAjk-45" value="&lt;b&gt;STAGE 1 : OBJECTIVE AND REQUIREMENTS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="230" y="20" width="330" height="40" as="geometry" />
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-47" value="&lt;b&gt;STAGE 1 : OBJECTIVE AND REQUIREMENTS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-45" value="&lt;b&gt;STAGE 3 : DEVELOPMENT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="255" y="610" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-48" target="UjGYbBJooW7ZUgRkbAjk-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-48" value="Service Development" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="60" y="670" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-49" target="UjGYbBJooW7ZUgRkbAjk-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-49" value="Service Integration and Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="270" y="670" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-50" value="Service Implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="610" y="670" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-51" target="UjGYbBJooW7ZUgRkbAjk-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-51" value="Developing Software Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="60" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-52" target="UjGYbBJooW7ZUgRkbAjk-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-52" value="Integrating Software Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-53" value="Testing and Validating Sofware Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-54" value="Preparing Software Systems Implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="620" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-55" value="Software Coding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="850" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-56" target="UjGYbBJooW7ZUgRkbAjk-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-56" value="Unit Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="940" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-57" target="UjGYbBJooW7ZUgRkbAjk-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-57" value="Software Sub Systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1030" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-58" target="UjGYbBJooW7ZUgRkbAjk-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-58" value="Software Sub Systems Integration Systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="850" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-59" target="UjGYbBJooW7ZUgRkbAjk-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-59" value="Software System Prototype" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-60" target="UjGYbBJooW7ZUgRkbAjk-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-60" value="Software Systems Validation Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="850" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-61" target="UjGYbBJooW7ZUgRkbAjk-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-61" value="Software Systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-62" value="Sofware Systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="850" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-64" value="Implementation Plan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1010" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-71" target="UjGYbBJooW7ZUgRkbAjk-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-71" value="User Acceptance Testing (UAT)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-75" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-56" target="UjGYbBJooW7ZUgRkbAjk-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="930" as="sourcePoint" />
+            <mxPoint x="450" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-85" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-64" target="UjGYbBJooW7ZUgRkbAjk-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="930" as="sourcePoint" />
+            <mxPoint x="450" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-89" value="&lt;b&gt;STAGE 3 : DEVELOPMENT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1200" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
