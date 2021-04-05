@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T16:35:41.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="gv89Qq_bE2IaTJ7mYiom" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T17:04:35.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="dTqhzoF82PKojK-bNPf6" version="14.5.7" type="github">
   <diagram id="jDnu_dIWOn3BXBdkam_3" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -264,8 +264,41 @@
             <mxPoint x="450" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjGYbBJooW7ZUgRkbAjk-89" value="&lt;b&gt;STAGE 6 : COMMUNICATION&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-105" value="&lt;b&gt;STAGE 5 : EVALUATION&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="250" y="1200" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-107" target="UjGYbBJooW7ZUgRkbAjk-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-107" value="&amp;nbsp;System Documentation" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-108" value="System Evaluation Report" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-109" value="New Evaluations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-111" target="UjGYbBJooW7ZUgRkbAjk-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-111" value="Existing Evaluations&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-114" target="UjGYbBJooW7ZUgRkbAjk-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjGYbBJooW7ZUgRkbAjk-114" target="UjGYbBJooW7ZUgRkbAjk-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-114" value="Technical Documents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-115" value="Manual Book" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-116" value="Service Performance Measurements" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
