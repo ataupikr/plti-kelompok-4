@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T16:28:13.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="fh5lYKjAvsNNHf38OmTT" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T16:29:40.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="GqdrHA1QMp3siT8IfOHX" version="14.5.7" type="github">
   <diagram id="jDnu_dIWOn3BXBdkam_3" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -264,7 +264,7 @@
             <mxPoint x="450" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjGYbBJooW7ZUgRkbAjk-89" value="&lt;b&gt;STAGE 3 : DEVELOPMENT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="UjGYbBJooW7ZUgRkbAjk-89" value="&lt;b&gt;STAGE 6 : COMMUNICATION&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="250" y="1200" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
