@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T16:11:19.124Z" agent="5.0 (Windows)" etag="_5blwo9ZyXsDxU7CvYI1" version="14.5.10" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-23T16:19:40.667Z" agent="5.0 (Windows)" etag="WY3oCl88ILXMUGINwZCd" version="14.5.10" type="github" pages="7">
   <diagram name="Metodologi" id="PeqVLtTWaTEfE4MjAWy1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -940,7 +940,7 @@
         <mxCell id="YFJNxeu5_dyzRhCUTqr--6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=90;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
           <mxGeometry x="596.13" y="267.88" width="294.75" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--7" value="Integrasi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
           <mxGeometry x="170" y="390" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YFJNxeu5_dyzRhCUTqr--9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
