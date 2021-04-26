@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T15:25:58.548Z" agent="5.0 (Windows)" etag="aJX372GIpAI37de0m6ZA" version="14.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-26T15:26:20.912Z" agent="5.0 (Windows)" etag="s9JKFmGK2yShqWwPvRlg" version="14.6.6" type="github" pages="9">
   <diagram name="Metodologi" id="PeqVLtTWaTEfE4MjAWy1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1098,7 +1098,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="l12aFZ8HQ9a0DaX_E56O" name="BPMN Tobe">
-    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bh9f2YJvUy4xgNhVW2Br-0" />
         <mxCell id="bh9f2YJvUy4xgNhVW2Br-1" parent="bh9f2YJvUy4xgNhVW2Br-0" />
@@ -1255,7 +1255,7 @@
           <mxGeometry x="120" y="80" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QeePl0JKGFc1oWQLdCjI-103" value="Layanan AWS" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bh9f2YJvUy4xgNhVW2Br-1">
-          <mxGeometry x="40" y="880" width="1290" height="260" as="geometry">
+          <mxGeometry x="40" y="880" width="1590" height="260" as="geometry">
             <mxRectangle x="20" width="1290" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
