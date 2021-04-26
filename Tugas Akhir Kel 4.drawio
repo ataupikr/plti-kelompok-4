@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T16:19:40.667Z" agent="5.0 (Windows)" etag="WY3oCl88ILXMUGINwZCd" version="14.5.10" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-26T14:05:03.099Z" agent="5.0 (Windows)" etag="X90GkipI6FZ803xXjJ3R" version="14.6.6" type="github" pages="8">
   <diagram name="Metodologi" id="PeqVLtTWaTEfE4MjAWy1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -925,35 +925,82 @@
       <root>
         <mxCell id="YFJNxeu5_dyzRhCUTqr--0" />
         <mxCell id="YFJNxeu5_dyzRhCUTqr--1" parent="YFJNxeu5_dyzRhCUTqr--0" />
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--2" value="Infrastruktur" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--2" value="Infrastruktur" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="170" y="190" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--3" value="Pengadaan : Pendanaan Secara Keseluruhan untuk mencapai sasaran strategi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--3" value="Pengadaan : Pendanaan Secara Keseluruhan untuk mencapai sasaran strategi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="170" y="340" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--4" value="Teknologi Informasi dan Komunikasi : Pemanfaatan Teknologi Informasi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--4" value="Teknologi Informasi dan Komunikasi : Pemanfaatan Teknologi Informasi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="170" y="290" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--5" value="Sumber Daya Manusia : Pengembangan Sumber Daya Manusia dengan Pelatihan" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--5" value="Sumber Daya Manusia : Pengembangan Sumber Daya Manusia dengan Pelatihan" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="170" y="240" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=90;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=90;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="596.13" y="267.88" width="294.75" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--7" value="Integrasi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--7" value="Integrasi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="170" y="390" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="270" y="390" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="370" y="390" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="470" y="390" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YFJNxeu5_dyzRhCUTqr--12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" vertex="1" parent="YFJNxeu5_dyzRhCUTqr--1">
+        <mxCell id="YFJNxeu5_dyzRhCUTqr--12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=left;" parent="YFJNxeu5_dyzRhCUTqr--1" vertex="1">
           <mxGeometry x="570" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eSX6-_Yzf0gYcU4P0uUn" name="Service Blue Print To Be">
+    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-0" />
+        <mxCell id="5VxMBtsBQM529PXDEW_S-1" parent="5VxMBtsBQM529PXDEW_S-0" />
+        <mxCell id="5VxMBtsBQM529PXDEW_S-2" value="Entry Data LHPP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-3" value="Simpan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-4" value="Evidence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="20" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-5" value="LIT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="20" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-7" value="Frontend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="20" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-8" value="Backend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="20" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-9" value="Supporting Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="20" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-10" value="Sistel LIT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="150" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-11" value="Form Data LHPP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="150" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-12" value="&lt;div&gt;Database &lt;br&gt;&lt;/div&gt;&lt;div&gt;Sistem LIT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-13" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-14" value="Sistem SLO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5VxMBtsBQM529PXDEW_S-15" value="Kirim LHPP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
