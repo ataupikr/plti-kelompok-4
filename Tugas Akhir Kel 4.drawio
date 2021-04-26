@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T14:45:42.002Z" agent="5.0 (Windows)" etag="VvzTa63LgoM1fvKAtChp" version="14.6.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-04-26T14:47:58.909Z" agent="5.0 (Windows)" etag="oAbuTwGttpoPX9nKkDq6" version="14.6.6" type="github" pages="9">
   <diagram name="Metodologi" id="PeqVLtTWaTEfE4MjAWy1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1094,6 +1094,14 @@
         <mxCell id="5VxMBtsBQM529PXDEW_S-46" value="Generate No Registrasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5VxMBtsBQM529PXDEW_S-1">
           <mxGeometry x="990" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="l12aFZ8HQ9a0DaX_E56O" name="BPMN Tobe">
+    <mxGraphModel dx="1108" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="bh9f2YJvUy4xgNhVW2Br-0" />
+        <mxCell id="bh9f2YJvUy4xgNhVW2Br-1" parent="bh9f2YJvUy4xgNhVW2Br-0" />
       </root>
     </mxGraphModel>
   </diagram>
